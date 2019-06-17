@@ -6,8 +6,16 @@
           <option name="url" value="git@github.com:googlesamples/android-dynamic-code-loading.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lamp.lge.com/auto/platform/vendor/alliance/services/car/plugins/input" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://lamp.lge.com/auto/platform/vendor/alliance/services/car/plugins/input" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\" />
+    <option name="cloneParentDir" value="D:\Projects" />
   </component>
 </application>
